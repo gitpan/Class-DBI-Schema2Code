@@ -1,0 +1,164 @@
+campus_id: 1.
+	Official name: -.
+	Type: -.
+	Address: -.
+
+campus_id: 2.
+	Official name: Berwick.
+	Type: Campus.
+	Address: Berwick campus,Clyde Road,Berwick,Victoria 3806,AUSTRALIA.
+
+campus_id: 3.
+	Official name: Caulfield.
+	Type: Campus.
+	Address: Monash University,Caulfield campus,900 Dandenong Road,Caulfield East,Victoria 3145,AUSTRALIA.
+
+campus_id: 4.
+	Official name: Melbourne.
+	Type: Site.
+	Address: -.
+
+campus_id: 5.
+	Official name: Gippsland.
+	Type: Campus.
+	Address: Monash University,Gippsland Campus,Northways Road,Churchill,Victoria 3842,AUSTRALIA.
+
+campus_id: 6.
+	Official name: Clayton.
+	Type: Campus.
+	Address: Monash University,Clayton campus,Wellington Road,Clayton,Victoria 3800,AUSTRALIA.
+
+campus_id: 7.
+	Official name: Tech Park.
+	Type: Site.
+	Address: -.
+
+campus_id: 8.
+	Official name: Parkville.
+	Type: Campus.
+	Address: Monash University,Parkville campus,381 Royal Parade,Parkville,Victoria 3052,AUSTRALIA.
+
+campus_id: 9.
+	Official name: Peninsula.
+	Type: Campus.
+	Address: Monash University,Peninsula campus,McMahons Road,Frankston,Victoria 3199,AUSTRALIA.
+
+campus_id: 10.
+	Official name: Alfred Hospital.
+	Type: Site.
+	Address: -.
+
+campus_id: 11.
+	Official name: London Centre.
+	Type: Center.
+	Address: Monash University Centre in London,171 Strand,London WC2R 1EP,ENGLAND.
+
+campus_id: 12.
+	Official name: Malaysia.
+	Type: Campus.
+	Address: Monash University,Malaysia campus,No. 2 Jalan Kolej,Bandar Sunway,46150 Petaling Jaya,Selangor,MALAYSIA.
+
+campus_id: 13.
+	Official name: Prato Centre.
+	Type: Center.
+	Address: Monash University Prato Centre,Palazzo Vaj,Via Pugliesi 26,59100 Prato,ITALY.
+
+campus_id: 14.
+	Official name: South Africa.
+	Type: Campus.
+	Address: Monash South Africa,144 Peter Road,Ruimsig,SOUTH AFRICA.
+
+campus_id: 15.
+	Official name: External.
+	Type: Site.
+	Address: -.
+
+campus_id: 16.
+	Official name: Monash Medical Center Clayton.
+	Type: Site.
+	Address: -.
+
+--------------------------------------------------
+address_id: 1.
+	Campus: -
+	Campus: Melbourne
+	Campus: Tech Park
+	Campus: Alfred Hospital
+	Campus: External
+	Campus: Monash Medical Center Clayton
+	Email:  -.
+	Fax:    -.
+	Line:   -.
+	Phone:  -.
+
+address_id: 2.
+	Campus: Berwick
+	Email:  berwick@monash.edu.au.
+	Fax:    +61 3 9904 7001.
+	Line:   Berwick campus,Clyde Road,Berwick,Victoria 3806,AUSTRALIA.
+	Phone:  +61 3 9904 7111.
+
+address_id: 3.
+	Campus: Caulfield
+	Email:  .
+	Fax:    + 6 13 990 32400.
+	Line:   Monash University,Caulfield campus,900 Dandenong Road,Caulfield East,Victoria 3145,AUSTRALIA.
+	Phone:  + 6 13 990 32000.
+
+address_id: 4.
+	Campus: Clayton
+	Email:  .
+	Fax:    + 61 3 990 54007.
+	Line:   Monash University,Clayton campus,Wellington Road,Clayton,Victoria 3800,AUSTRALIA.
+	Phone:  + 61 3 990 54000.
+
+address_id: 5.
+	Campus: Gippsland
+	Email:  Reception.Gippsland@adm.monash.edu.au.
+	Fax:    +61 3 9902 6300,+61 3 5122 6300.
+	Line:   Monash University,Gippsland Campus,Northways Road,Churchill,Victoria 3842,AUSTRALIA.
+	Phone:  +61 3 9902 6200,+61 3 5122 6200.
+
+address_id: 6.
+	Campus: Malaysia
+	Email:  info@monash.edu.my.
+	Fax:    (+603) 5636 0622.
+	Line:   Monash University,Malaysia campus,No. 2 Jalan Kolej,Bandar Sunway,46150 Petaling Jaya,Selangor,MALAYSIA.
+	Phone:  (+603) 5636 0600.
+
+address_id: 7.
+	Campus: Parkville
+	Email:  info@vcp.monash.edu.au.
+	Fax:    +61 3 9903 9581.
+	Line:   Monash University,Parkville campus,381 Royal Parade,Parkville,Victoria 3052,AUSTRALIA.
+	Phone:  +61 3 9903 9000.
+
+address_id: 8.
+	Campus: Peninsula
+	Email:  peninsula.campus@monash.edu.au.
+	Fax:    +61 3 9904 4190.
+	Line:   Monash University,Peninsula campus,McMahons Road,Frankston,Victoria 3199,AUSTRALIA.
+	Phone:  +61 3 9904 4000.
+
+address_id: 9.
+	Campus: South Africa
+	Email:  inquiries@monash.ac.za.
+	Fax:    +27 11 950 4004.
+	Line:   Monash South Africa,144 Peter Road,Ruimsig,SOUTH AFRICA.
+	Phone:  +27 11 950 4009.
+
+address_id: 10.
+	Campus: London Centre
+	Email:  monash@kcl.ac.uk.
+	Fax:    +44 (0)20 7240 8579.
+	Line:   Monash University Centre in London,171 Strand,London WC2R 1EP,ENGLAND.
+	Phone:  +44 (0)20 7240 4618.
+
+address_id: 11.
+	Campus: Prato Centre
+	Email:  Kerryn.Morey@adm.monash.edu.au,Cecilia Hewlett@ita.monash.edu.au.
+	Fax:    +39 0574 436923.
+	Line:   Monash University Prato Centre,Palazzo Vaj,Via Pugliesi 26,59100 Prato,ITALY.
+	Phone:  +39 0574 43691.
+
+--------------------------------------------------

@@ -1,0 +1,13 @@
+--- #YAML:1.0
+name: Class-DBI-Schema2Code
+version: 1.00
+author:
+  - Ron Savage <ron@savage.net.au>
+abstract: Convert db schema to modules which use Class::DBI
+license: artistic
+requires:
+  DBIx::Admin::TableInfo: 0
+  File::Path: 0
+  HTML::Template: 0
+provides: {}
+generated_by: Module::Build version 0.24

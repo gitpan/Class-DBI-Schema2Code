@@ -1,0 +1,18 @@
+Build.PL
+Changes.txt
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+examples/address-print.pl
+examples/address.txt
+examples/bootstrap.pl
+examples/campus-print.pl
+examples/campus-type.txt
+examples/campus.txt
+examples/generator.pl
+examples/generic-module.tmpl
+examples/parent-module.tmpl
+examples/reporter.log
+examples/reporter.pl
+lib/Class/DBI/Schema2Code.pm
+t/test.t

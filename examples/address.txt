@@ -1,0 +1,18 @@
+# Columns
+# 1 .. 8 Address
+# 9 .. 10 Phones
+# 11 .. 12 Faxes
+# 13 .. 14 Emails
+# See also http://monash.edu.au/campuses
+
+-,,,,,,,,-,,-,,-,
+Berwick campus,Clyde Road,Berwick,Victoria 3806,AUSTRALIA,,,,+61 3 9904 7111,,+61 3 9904 7001,,berwick@monash.edu.au,
+Monash University,Caulfield campus,900 Dandenong Road,Caulfield East,Victoria 3145,AUSTRALIA,,,+ 6 13 990 32000,,+ 6 13 990 32400,,,
+Monash University,Clayton campus,Wellington Road,Clayton,Victoria 3800,AUSTRALIA,,,+ 61 3 990 54000,,+ 61 3 990 54007,,,
+Monash University,Gippsland Campus,Northways Road,Churchill,Victoria 3842,AUSTRALIA,,,+61 3 9902 6200,+61 3 5122 6200,+61 3 9902 6300,+61 3 5122 6300,Reception.Gippsland@adm.monash.edu.au,
+Monash University,Malaysia campus,No. 2 Jalan Kolej,Bandar Sunway,46150 Petaling Jaya,Selangor,MALAYSIA,,(+603) 5636 0600,,(+603) 5636 0622,,info@monash.edu.my,
+Monash University,Parkville campus,381 Royal Parade,Parkville,Victoria 3052,AUSTRALIA,,,+61 3 9903 9000,,+61 3 9903 9581,,info@vcp.monash.edu.au,
+Monash University,Peninsula campus,McMahons Road,Frankston,Victoria 3199,AUSTRALIA,,,+61 3 9904 4000,,+61 3 9904 4190,,peninsula.campus@monash.edu.au,
+Monash South Africa,144 Peter Road,Ruimsig,SOUTH AFRICA,,,,,+27 11 950 4009,,+27 11 950 4004,,inquiries@monash.ac.za,
+Monash University Centre in London,171 Strand,London WC2R 1EP,ENGLAND,,,,,+44 (0)20 7240 4618,,+44 (0)20 7240 8579,,monash@kcl.ac.uk,
+Monash University Prato Centre,Palazzo Vaj,Via Pugliesi 26,59100 Prato,ITALY,,,,+39 0574 43691,,+39 0574 436923,,Kerryn.Morey@adm.monash.edu.au,Cecilia Hewlett@ita.monash.edu.au

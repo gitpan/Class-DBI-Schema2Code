@@ -1,0 +1,28 @@
+# Column
+#	1 Address id. Must match address.txt
+#	2 Order of merit
+#	3 Visible - Meaning?
+#	4 Campus/Center/Site. Must match campus-type.txt
+#	5 Official name. Must match pabx.txt
+#	6 Local name
+#	7 Name. Either 5 or 6
+#	8 Home page
+#	9 Code
+# See also http://monash.edu.au/campuses
+
+1	0	No	-	-	-	-	-	-
+2	1	Yes	Campus	Berwick	Berwick	Berwick	http://www.berwick.monash.edu.au/	BER
+3	2	Yes	Campus	Caulfield	Caulfield	Caulfield	http://www.monash.edu.au/campuses/caulfield/	CAU
+1	3	Yes	Site	Melbourne	City	City	-	CIT
+5	4	Yes	Campus	Gippsland	Churchill	Churchill	http://www.gippsland.monash.edu.au/	GIP
+4	5	Yes	Campus	Clayton	Clayton	Clayton	http://www.monash.edu.au/campuses/clayton/	CLA
+1	6	Yes	Site	Tech Park	Tech Park	Tech Park	-	TEK
+7	7	Yes	Campus	Parkville	Pharmacy	Parkville	http://www.vcp.monash.edu.au/	PAR
+8	8	Yes	Campus	Peninsula	Frankston	Peninsula	http://www.monash.edu.au/campuses/peninsula/	PFR
+1	9	Yes	Site	Alfred Hospital	Alfred	Alfred	-	ALF
+10	10	Yes	Center	London Centre	London	London	http://www.monash.ac.uk/	LUK
+6	11	Yes	Campus	Malaysia	Malaysia	Malaysia	http://www.monash.edu.my/	MAL
+11	12	Yes	Center	Prato Centre	Prato	Prato	http://ita.monash.edu/	PIT
+9	13	Yes	Campus	South Africa	South Africa	South Africa	http://www.monash.ac.za/	RSA
+1	14	Yes	Site	External	External	External	-	EXT
+1	0	No	Site	Monash Medical Center Clayton	MMCC	MMCC	-	MMC

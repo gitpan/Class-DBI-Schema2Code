@@ -1,0 +1,16 @@
+Revision history for Perl extension Class::DBI::Schema2Code.
+
+1.00  Thu Mar  18 10:23:29 2004
+	- Original version
+	- See examples/parent-module.tmpl and generic-module.tmpl for sample templates
+		used to generate Perl source code
+	- See examples/bootstrap.pl for code which loads 3 text files into 3 database
+		tables
+	- See examples/generator.pl for code which generates Local::Project::* modules for
+		the 3 tables
+	- See examples/reporter.pl for code which exercises the Local::Project::* modules
+	- See examples/address-print.pl and campus-print.pl for subs which can be plugged
+		into the generated modules Local::Project::Address.pm and Campus.pm to enhance
+		the output of reporter.pl
+	- See examples/reporter.log for my output after having plugged in those 2 subs.
+		Your output should be identical, apart from OS-dependent line terminators.
