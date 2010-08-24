@@ -1,5 +1,6 @@
 Build.PL
-Changes.txt
+Changelog.ini
+CHANGES
 examples/address-print.pl
 examples/address.txt
 examples/bootstrap.pl
@@ -14,8 +15,7 @@ examples/reporter.pl
 lib/Class/DBI/Schema2Code.pm
 Makefile.PL
 MANIFEST			This list of files
-MANIFEST.SKIP
+META.yml
 README
 t/pod.t
 t/test.t
-META.yml

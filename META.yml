@@ -1,19 +1,26 @@
---- #YAML:1.0
-name: Class-DBI-Schema2Code
-version: 1.02
+---
+abstract: 'Convert db schema to modules which use Class::DBI'
 author:
-  - Ron Savage <ron@savage.net.au>
-abstract: Convert db schema to modules which use Class::DBI
+  - 'Ron Savage <ron@savage.net.au>'
+build_requires:
+  Test::More: 0
+  Test::Pod: 0
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3607'
 license: artistic
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Class-DBI-Schema2Code
+provides:
+  Class::DBI::Schema2Code:
+    file: lib/Class/DBI/Schema2Code.pm
+    version: 1.05
 requires:
   DBIx::Admin::TableInfo: 0
   File::Path: 0
   HTML::Template: 0
-build_requires:
-  Test::More: 0
-  Test::Pod: 0
-provides:
-  Class::DBI::Schema2Code:
-    file: lib/Class/DBI/Schema2Code.pm
-    version: 1.02
-generated_by: Module::Build version 0.2611
+resources:
+  license: http://www.perlfoundation.org/artistic_license_1_0
+version: 1.05
